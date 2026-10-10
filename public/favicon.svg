@@ -1,0 +1,2 @@
+<!-- Aquí dibujo el icono de la aplicación con un fondo verde y una cartera. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><rect width="48" height="48" rx="12" fill="#047857"/><path d="M12 15h23v22H12zM12 15v-4h19v4" fill="none" stroke="white" stroke-width="3" stroke-linejoin="round"/><path d="M28 23h9v8h-9z" fill="#047857" stroke="white" stroke-width="3"/><circle cx="31" cy="27" r="1" fill="white"/></svg>
